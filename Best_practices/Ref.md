@@ -1,0 +1,2 @@
+- EN: https://consensys.github.io/smart-contract-best-practices/development-recommendations/
+- VI: https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-vi.md
