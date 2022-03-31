@@ -178,3 +178,4 @@ contract UpgradeabilityStorage {
 - https://blog.openzeppelin.com/proxy-patterns/
 - https://docs.openzeppelin.com/upgrades-plugins/1.x/
 - https://docs.openzeppelin.com/upgrades-plugins/1.x/api-hardhat-upgrades
+- https://github.com/zeppelinos/zos-lib/pull/36
