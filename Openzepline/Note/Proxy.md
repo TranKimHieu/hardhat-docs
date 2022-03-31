@@ -1,4 +1,5 @@
 ##Proxy
+
 **1. Proxy patterns**
 ![The San Juan Mountains are beautiful!](@/../../../_images/proxy_1.png)
 
@@ -12,7 +13,7 @@
 
 **2.3 experiment**
 
-![The San Juan Mountains are beautiful!](@/../../../_images/diagram_machine.png)
+![The San Juan Mountains are beautiful!](@/../../../_images/diagram_machine.PNG)
 
 
 Contract `machine.sol`
@@ -107,14 +108,14 @@ undefined
 ```
 await machine.addValuesWithDelegateCall('0x7De0095B308131DaadcEbB45CeC270697ad1d1d1', 9,10);
 ```
-![The San Juan Mountains are beautiful!](@/../../../_images/console_delegate_call_1.png)
+![The San Juan Mountains are beautiful!](@/../../../_images/console_delegate_call_1.PNG)
  > context: Machine
  
 - Call
 ```
 await machine.addValuesWithCall('0x7De0095B308131DaadcEbB45CeC270697ad1d1d1', 9,10);
 ```
-![The San Juan Mountains are beautiful!](@/../../../_images/console_call_1.png)
+![The San Juan Mountains are beautiful!](@/../../../_images/console_call_1.PNG)
 >context: Calculator
 
 **3. Transparent**
