@@ -100,11 +100,15 @@ Explore: https://rinkeby.etherscan.io/token/0xb25cafd4b5fcbae13cb6d761da4fded3ba
 
 ##3. How ? 
 - **Pattern**
+
 ![The San Juan Mountains are beautiful!](@/../../../_images/proxy_pattern.webp)
 
 - **How to Initialize**
+
 1.Deploy an `EternalStorageProxy` instance
+
 2.Deploy an initial version of your contract (v1)
+
 3.Call your `EternalStorageProxy` instance to upgrade to the address of your initial version
 
 
