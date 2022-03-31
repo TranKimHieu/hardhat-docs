@@ -8,7 +8,7 @@
 **2.1 Call**
 ![The San Juan Mountains are beautiful!](@/../../../_images/call.png)
 
-**2.2 Call**
+**2.2 Delegate Call**
 ![The San Juan Mountains are beautiful!](@/../../../_images/delegate_call.png)
 
 **2.3 experiment**
