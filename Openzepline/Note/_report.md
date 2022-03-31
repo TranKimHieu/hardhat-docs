@@ -1,4 +1,5 @@
 #Openzeppelin
+
 ##1. Step of development journey.
 **1.1 Setting up a node project**
     Install node, npm, libraries for web3 development
@@ -19,6 +20,7 @@ V
     Change the code of deployed contract to add new feature or fix bugs, using Openzepplin upgrade plugin
 
 **1.7 Preparing for mainet**
+
 
 ##2. Upgrading Smart Contract
 ```
